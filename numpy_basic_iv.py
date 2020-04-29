@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
 import numpy as np
 
-# created numpy array with 2 x 3 x 4 items that between 0 to 1
-# 2 x 3 x 4 boyutunda 0 ile 1 arasında sayılardan oluşan Numpy dizisi oluşturma
+# created numpy array with 2 x 3 x 4 items that between 0 (0 x 3) to 3 (1 x 3)
+# 2 x 3 x 4 boyutunda 0 (0 x 3) ile 3 (1 x 3) arasında sayılardan oluşan Numpy dizisi oluşturma
 randomArray = 3 * np.random.random([3, 4])
 
 print("Array")

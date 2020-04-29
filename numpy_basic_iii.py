@@ -2,7 +2,7 @@
 import numpy as np
 
 # numpy array with 2 x 3 x 4 items that between 0 to 1
-# 2 x 3 x 4 boyutunda 0 ile 1 arasındaki sayılardan oluşan numpy dizi
+# 2 x 3 x 4 boyutunda  arasındaki sayılardan oluşan numpy dizi
 randomZPArray = np.random.rand(2, 3, 4)
 
 # numpy array with 2 x 3 x 4 items with negative
